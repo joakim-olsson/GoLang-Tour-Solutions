@@ -1,3 +1,5 @@
 # A tour of go solutions
 *Contains my Solutions to "A tour of go" problems.*
-url: https://tour.golang.org
+---
+[A tour of go](https://tour.golang.org)
+---
